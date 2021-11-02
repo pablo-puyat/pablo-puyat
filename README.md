@@ -1,4 +1,9 @@
-### Hi there 👋
+# Pablo Puyat
+Self taught web developer. Squirel trying to get a nut.
+
+## Current Tech Stack
+- Laravel
+- Vue.js
 
 <!--
 **pablo-puyat/pablo-puyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
