@@ -1,5 +1,5 @@
 # Pablo Puyat
-Self taught web developer. Squirel trying to get a nut.
+Self taught web developer. Squirrel trying to get a nut.
 
 ## Current Tech Stack
 - Laravel
