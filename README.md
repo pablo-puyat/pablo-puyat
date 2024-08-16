@@ -2,6 +2,8 @@
 Self taught web developer. Squirrel trying to get a nut.
 
 ## Current Tech Stack
+- Node
+- React
 - Laravel
 - Vue.js
 
